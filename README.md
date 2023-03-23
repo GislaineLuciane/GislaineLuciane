@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GislaineLuciane
 - 🌱 I’m currently learning  python
-- 📫 How to reach me , gisa_luciane@hotmail.com
+- 📫 How to reach me , gislaineluciane10@gmail.com
 
 <!---
 GislaineLuciane/GislaineLuciane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
